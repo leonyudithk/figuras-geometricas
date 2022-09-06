@@ -1,0 +1,23 @@
+html {
+    min-height: 50%;
+  }
+.container {
+    margin: 10%;
+    padding: 15px;
+    font-family: sans-serif;
+    background-color: #c1bcdeec ;
+    min-height: 50%;
+    padding-bottom: 5rem;
+    font-size: 13px;
+  
+  }
+#solucion{
+    margin: 5%;
+    padding: 10px;
+    font-size: 14px;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    width: 80%;
+    background-color: #f1f0f8ec ;
+  }
